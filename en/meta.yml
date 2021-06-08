@@ -1,11 +1,9 @@
-title: scratch3-reverse-sound
+title: Reverse a sound
 hero_image: images/banner.png
-description: scratch3-reverse-sound description
+description: Reverse a sound
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-06-08"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Reverse a sound
