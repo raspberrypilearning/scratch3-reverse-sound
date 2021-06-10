@@ -1,10 +1,8 @@
 Reversing sounds are useful for creating special effects, for example the `Slide whistle` sound makes a good shrinking effect, so reversing it makes the perfect growing effect! 
 
---- task ---
-
 Add or record a sound. 
 
-Click on the **Reverse** icon to make the sound play backwards. The sound wave will reverse. 
+Click on the **Reverse** icon to make the sound play backwards. You will see the sound wave reverse. 
 
 ![The sound with the reverse icon highlighted.](images/reverse-sound.png)
 
@@ -12,4 +10,3 @@ Click on the **Reverse** icon to make the sound play backwards. The sound wave w
 
 ![The sound with popup menu showing duplicate.](images/duplicate-sound.png)
 
---- /task ---
