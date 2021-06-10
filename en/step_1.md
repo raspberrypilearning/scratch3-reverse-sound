@@ -4,7 +4,7 @@ Reversing sounds are useful for creating special effects, for example the `Slide
 
 Add or record a sound. 
 
-Click on the **Reverse** icon to make the sound play backwards. The sound wave will reverse. 
+Click on the **Reverse** icon to make the sound play backwards. You will see the sound wave reverse. 
 
 ![The sound with the reverse icon highlighted.](images/reverse-sound.png)
 
