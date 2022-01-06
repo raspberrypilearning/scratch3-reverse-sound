@@ -1,12 +1,12 @@
-Reversing sounds are useful for creating special effects, for example the `Slide whistle` sound makes a good shrinking effect, so reversing it makes the perfect growing effect!
+Omgekeerde geluiden zijn handig voor het creëren van speciale effecten, bijvoorbeeld het `Slide Whistle` geluid heeft een goed krimpend effect, dus omkeren geeft het perfecte groei-effect!
 
-Add or record a sound.
+Een geluid toevoegen of opnemen.
 
-Click on the **Reverse** icon to make the sound play backwards. You will see the sound wave reverse.
+Klik op het **Keer om** pictogram om het geluid achteruit af te spelen. Je ziet de geluidsgolf omgekeerd.
 
-![The sound with the reverse icon highlighted.](images/reverse-sound.png)
+![Het geluid met het keer om pictogram gemarkeerd.](images/reverse-sound.png)
 
-**Tip:** To keep both the original version and the reversed version of the sound, right-click (or tap and hold) on the original sound and choose ‘duplicate’.
+**Tip:** Om zowel de originele versie als de omgekeerde versie van het geluid te behouden, klik je met de rechtermuisknop (of tik en houdt vast) op het originele geluid en kies 'dupliceren'.
 
-![The sound with popup menu showing duplicate.](images/duplicate-sound.png)
+![Het geluid met pop-upmenu toont dupliceren.](images/duplicate-sound.png)
 
