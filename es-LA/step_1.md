@@ -1,12 +1,12 @@
-Reversing sounds are useful for creating special effects, for example the `Slide whistle` sound makes a good shrinking effect, so reversing it makes the perfect growing effect!
+Invertir sonidos es útil para crear efectos especiales, por ejemplo, el sonido de la `Flauta de émbolo` hace un buen efecto de encogimiento, por lo que invertirlo hace un efecto de agrandamiento perfecto!
 
-Add or record a sound.
+Agrega o graba un sonido.
 
-Click on the **Reverse** icon to make the sound play backwards. You will see the sound wave reverse.
+Haz clic en el icono **Reversa** para que el sonido se reproduzca al revés. Verás que la onda de sonido se invierte.
 
-![The sound with the reverse icon highlighted.](images/reverse-sound.png)
+![El sonido con el icono reversa resaltado.](images/reverse-sound.png)
 
-**Tip:** To keep both the original version and the reversed version of the sound, right-click (or tap and hold) on the original sound and choose ‘duplicate’.
+**Sugerencia:** Para mantener tanto la versión original como la versión invertida del sonido, haz clic derecho (o en una tableta, toca y mantén presionado) en el sonido original y elige 'duplicar'.
 
-![The sound with popup menu showing duplicate.](images/duplicate-sound.png)
+![El sonido con menú emergente que muestra duplicar.](images/duplicate-sound.png)
 
