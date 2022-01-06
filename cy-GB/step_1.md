@@ -1,12 +1,12 @@
-Reversing sounds are useful for creating special effects, for example the `Slide whistle` sound makes a good shrinking effect, so reversing it makes the perfect growing effect!
+Mae gwrthdroi sain yn ddefnyddiol ar gyfer creu effeithiau arbennig. Er enghraifft, mae'r sŵn `Chwiban llithr` yn creu'r argraff bod rhywbeth yn mynd yn llai, ond mae troi'r sŵn o chwith yn creu'r argraff ei fod yn mynd yn fwy!
 
-Add or record a sound.
+Ychwanegu neu recordio sain.
 
-Click on the **Reverse** icon to make the sound play backwards. You will see the sound wave reverse.
+Clicia ar **Gwrthdroi** i wneud i'r sain chwarae am yn ôl. Bydd y donfedd yn troi o chwith.
 
-![The sound with the reverse icon highlighted.](images/reverse-sound.png)
+![Y sain gyda'r eicon Gwrthdroi wedi'i amlygu.](images/reverse-sound.png)
 
-**Tip:** To keep both the original version and the reversed version of the sound, right-click (or tap and hold) on the original sound and choose ‘duplicate’.
+**Awgrym:** I gadw'r fersiwn wreiddiol a fersiwn gwrthdroi'r sain, de-glicia (neu tap a dal) y sain gwreiddiol a dewis 'dyblygu'.
 
-![The sound with popup menu showing duplicate.](images/duplicate-sound.png)
+![Y ddewislen naid sain yn dangos y dewis dyblygu.](images/duplicate-sound.png)
 
