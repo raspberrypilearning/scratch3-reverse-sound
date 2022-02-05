@@ -1,4 +1,4 @@
-Reversing sounds are useful for creating special effects, for example the `Slide whistle` sound makes a good shrinking effect, so reversing it makes the perfect growing effect!
+تُعد عكس الاصوات مفيدة لإنشاء مؤثرات خاصة ، على سبيل المثال صوت الــ ، `Slide whistle` يُحدث تأثير انكماش جيد ، لذا فإن عكسه يجعل تأثير النمو مثالي!
 
 قم بإضافة أو تسجيل صوت.
 
