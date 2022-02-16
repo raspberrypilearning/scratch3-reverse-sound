@@ -1,12 +1,12 @@
-Reversing sounds are useful for creating special effects, for example the `Slide whistle` sound makes a good shrinking effect, so reversing it makes the perfect growing effect!
+Η αντιστροφή ήχων είναι χρήσιμη για τη δημιουργία ειδικών εφέ, για παράδειγμα ο ήχος `Slide whistle` δημιουργεί ένα καλό εφέ συρρίκνωσης, επομένως η αντιστροφή κάνει το τέλειο εφέ ανάπτυξης!
 
-Add or record a sound.
+Πρόσθεσε ή ηχογράφησε έναν ήχο.
 
-Click on the **Reverse** icon to make the sound play backwards. You will see the sound wave reverse.
+Κάνε κλικ στο εικονίδιο **Αντιστροφή** για να αναπαράγεις τον ήχο προς τα πίσω. Θα δεις το ηχητικό κύμα να αντιστρέφεται.
 
-![The sound with the reverse icon highlighted.](images/reverse-sound.png)
+![Ο ήχος με το εικονίδιο αντιστροφής να έχει επισημανθεί.](images/reverse-sound.png)
 
-**Tip:** To keep both the original version and the reversed version of the sound, right-click (or tap and hold) on the original sound and choose ‘duplicate’.
+**Συμβουλή:** Για να διατηρήσεις τόσο την αρχική έκδοση όσο και την αντεστραμένη έκδοση του ήχου, κάνε δεξί κλικ (ή πάτησε παρατεταμένα) στον αρχικό ήχο και επέλεξε «διπλασιασμός».
 
-![The sound with popup menu showing duplicate.](images/duplicate-sound.png)
+![Ο ήχος με το αναδυόμενο μενού που δείχνει το διπλότυπο.](images/duplicate-sound.png)
 
