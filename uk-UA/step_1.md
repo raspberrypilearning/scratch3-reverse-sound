@@ -1,12 +1,12 @@
-Reversing sounds are useful for creating special effects, for example the `Slide whistle` sound makes a good shrinking effect, so reversing it makes the perfect growing effect!
+Обернені звуки корисні для створення спецефектів, наприклад, звук `Slide whistle` створює гарний ефект зменшення, тому його обернення дає ідеальний ефект збільшення!
 
-Add or record a sound.
+Додати або записати звук.
 
-Click on the **Reverse** icon to make the sound play backwards. You will see the sound wave reverse.
+Клацни на іконку **Обернути**, щоб звук відтворювався у зворотному напрямку. Ти побачиш, як звукова хвиля змінює напрямок.
 
-![The sound with the reverse icon highlighted.](images/reverse-sound.png)
+![Звук з підсвіченою іконкою реверсу виділено.](images/reverse-sound.png)
 
-**Tip:** To keep both the original version and the reversed version of the sound, right-click (or tap and hold) on the original sound and choose ‘duplicate’.
+**Порада:** Щоб зберегти як оригінальну версію, так і реверсну версію звуку, клацни правою кнопкою миші (або торкнись і утримуй) по оригінальному звуку і вибери ‘дублювати’.
 
-![The sound with popup menu showing duplicate.](images/duplicate-sound.png)
+![Звук зі спливаючим меню показує дублювання.](images/duplicate-sound.png)
 
