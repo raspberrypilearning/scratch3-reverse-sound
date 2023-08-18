@@ -1,6 +1,6 @@
-L'inversion des sons sont utiles pour créer des effets spéciaux, par exemple le son `Slide sifflet` produit un bon effet de rétrécissement, donc l'inverser donne l'effet de croissance parfait !
+L'inversion des sons sont utiles pour créer des effets spéciaux, par exemple le son `Slide Whistle` produit un bon effet de rétrécissement, donc l'inverser donne l'effet de croissance parfait !
 
-Ajouter ou enregistrer un son.
+Ajoute ou enregistre un son.
 
 Clique sur l'icone **Inverser** pour faire jouer le son à l'envers. Tu verras l'onde sonore s'inverser.
 
