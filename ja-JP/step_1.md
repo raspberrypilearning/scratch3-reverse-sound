@@ -1,12 +1,12 @@
-Reversing sounds are useful for creating special effects, for example the `Slide whistle` sound makes a good shrinking effect, so reversing it makes the perfect growing effect!
+音を反転させると変わった音を作ることができます。 例えば`Slide whistle`は音が小さくなる効果の例で、反転させると音が大きくなる面白い効果になります！
 
-Add or record a sound.
+音の追加または録音。
 
-Click on the **Reverse** icon to make the sound play backwards. You will see the sound wave reverse.
+**Reverse**をクリックして逆再生の音を作りましょう。 音波が見えるはずです。
 
-![The sound with the reverse icon highlighted.](images/reverse-sound.png)
+![反転（Reverse）のアイコンがハイライトされています。](images/reverse-sound.png)
 
-**Tip:** To keep both the original version and the reversed version of the sound, right-click (or tap and hold) on the original sound and choose ‘duplicate’.
+**Tip:**はオリジナルのバージョンと反転したバージョンの両方をキープするには、オリジナルのサウンドを右クリック（またはタップするか、長押し）で「duplicate」を選択します。
 
-![The sound with popup menu showing duplicate.](images/duplicate-sound.png)
+![サウンドにポップアップメニューが表示され、duplicateと表示されている。](images/duplicate-sound.png)
 
